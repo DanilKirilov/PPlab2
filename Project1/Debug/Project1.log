@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\1\Project1\Source.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\1\Project1\Source.cpp(64,22): warning C4244: +=: преобразование "double" в "unsigned long", возможна потеря данных
+D:\1\Project1\Source.cpp(86,22): warning C4244: +=: преобразование "double" в "unsigned long", возможна потеря данных
+D:\1\Project1\Source.cpp(104,21): warning C4244: +=: преобразование "double" в "unsigned long", возможна потеря данных
+  Project1.vcxproj -> D:\1\Project1\Debug\Project1.exe
